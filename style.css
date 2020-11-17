@@ -10,3 +10,6 @@ img {
   font-weight: bold;
 }
 
+.ingredients li{
+  list-style: square;
+}
